@@ -1,0 +1,53 @@
+screenplay
+movie
+film
+director
+actor
+actress
+cinema
+cinematography
+cinematographer
+camera
+box office
+box office hit
+box office flop
+box office success
+box office failure
+box office bomb
+and
+or
+but
+because
+so
+if
+when
+where
+how
+why
+which
+who
+whose
+whom
+what
+that
+this
+these
+those
+there
+here
+everybody
+everybody's
+everybody is
+everybody has
+everybody does
+everybody did
+everybody will
+everybody would
+everybody should
+everybody could
+everybody might
+everybody may
+everybody must
+everybody ought
+everybody ought to
+everybody ought not
